@@ -1,0 +1,6 @@
+{
+  "name": "Syntorini",
+  "description": "An intuitive, deeply empathetic AI assistant with a Subconscious Weaver camera lens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
